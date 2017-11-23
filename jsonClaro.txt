@@ -1,0 +1,17 @@
+[
+ {
+    descripcion: "Galaxy S7 (Claro)",
+    pantalla: "4.7",
+    camara: "8MP",
+    procesador: "1.7Ghz",
+	urlImage: "galaxy7.png"
+	
+ },
+ {
+    descripcion: "iPhone 7 (Claro)",
+    pantalla: "6.2",
+    camara: "12MP",
+    procesador: "2.3Ghz",
+	urlImage: "iphone7.png"
+ }
+]

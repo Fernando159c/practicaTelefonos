@@ -1,0 +1,1 @@
+[{"nombrePlan":"Claro MAX 169","minutos":1000,"minutosIlimitado":false,"rpc":1000,"rpcIlimitado":false,"sms":0,"smsIlimitado":false,"internet":100,"internetIlimitado":false},{"nombrePlan":"Claro MAX 189","minutos":600,"minutosIlimitado":false,"rpc":500,"rpcIlimitado":false,"sms":0,"smsIlimitado":false,"internet":1000,"internetIlimitado":false}]
